@@ -66,6 +66,7 @@ AUTHOR_MAP = {
     "dirtyren@users.noreply.github.com": "dirtyren",
     "islam666@users.noreply.github.com": "islam666",
     "25539605+lsaether@users.noreply.github.com": "lsaether",
+    "rod.boev@gmail.com": "rodboev",
     "zhaolei.vc@bytedance.com": "zhaoleibd",
     "jeffrobodie@gmail.com": "jeffrobodie-glitch",
     "kyssta-exe@users.noreply.github.com": "kyssta-exe",
